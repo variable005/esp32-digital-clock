@@ -31,6 +31,11 @@ This project is designed as a focused embedded implementation rather than a full
 
 ---
 
+## Demo
+
+![ESP32 RTC Digital Clock Demo](demo.png)
+
+
 ## Communication & Pin Configuration
 
 - I2C Bus
